@@ -1,0 +1,40 @@
+# 환경 설정 파일
+.env*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# Node
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 로그 및 데이터베이스
+*.log
+*.db
+*.sqlite3
+
+# 배포 관련
+deploy_key
+*.pem accounting-dashboard-router.zip 
+accounting-dashboard-router.zip 
+accounting-dashboard-router.zip 

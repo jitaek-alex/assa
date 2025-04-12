@@ -1,0 +1,32 @@
+# 환경 설정 파일
+.env
+.env.production
+.env.local
+.env.development
+
+# Python 가상환경
+venv/
+env/
+ENV/
+
+# Python 캐시 파일
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite 데이터베이스
+*.db
+*.sqlite3
+
+# 로그 파일
+*.log
+
+# IDE 설정
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 시스템 파일
+.DS_Store
+Thumbs.db 
